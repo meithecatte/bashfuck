@@ -21,6 +21,8 @@ usage: bash bashfuck.sh source.sh output.sh
 
 I don't really feel like writing this section right now. Go forth, human! Examine the cursed artifact! You'll certainly learn something about bash that you didn't know before.
 
+If you want a hint, take a look at `encoder-payload.sh` — though note that, due to the self-reference, this won't work properly when not itself encoded.
+
 ## Other considerations
 
 - please make sure to observe [the terms of the license](./LICENSE)
